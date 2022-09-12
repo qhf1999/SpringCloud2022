@@ -1,0 +1,3 @@
+## 构建Eureka Server集群
+注册多个Eureka Server，Client根据负载均衡的策略选择Server
+多个Eureka Server之间服务同步，即每个Server中都包含有所有Client的信息
